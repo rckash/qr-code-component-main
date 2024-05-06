@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](./screenshot.jpg)
 
-(./images/qr-code-component.png)
+[My Screenshot](./images/qr-code-component.png)
 
 Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
@@ -30,8 +30,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [My Solution](https://github.com/rckash/qr-code-component-main)
-- Live Site URL: [Add live site URL here](https://rckash.github.io/qr-code-component-main)
+- Solution URL: [GitHub Repository](https://github.com/rckash/qr-code-component-main)
+- Live Site URL: [GitHub Page](https://rckash.github.io/qr-code-component-main)
 
 ## My process
 
@@ -52,7 +52,7 @@ I have learned how to use the proper units for styling.
 
 ## Author
 
-- Website - [Add your name here](https:github.com/rckash)
+- Website - [Rirrucham Kashyap](https:github.com/rckash)
 - Frontend Mentor - [@rckash](https://www.frontendmentor.io/profile/rckash)
 
 ## Acknowledgments
